@@ -31,7 +31,7 @@
 
 ---
 
-### 👨‍🎓 About Me :
+### About Me :
 - :bulb: I’m currently working on the next big thing and changing the world..
 - :books: I’m currently learning and developing with React.js and Vue.js.
 - 🤝 I’m looking to collaborate on projects with anyone who works well in a team.
