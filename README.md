@@ -8,8 +8,9 @@ Some quick facts about me:
 - 🌱 I’m currently learning and developing with React.js and Vue.js.
 - 👯 I’m looking to collaborate on projects with anyone who works well in a team.
 - 🤔 I’m looking for help with finding a career that suits my computer science and business background.
-- 💬 Ask me about anything! I love surfing, traveling, trying new cuisines, and filming.
-- 📫 How to reach me: me@dylanhnguyen.com or https://dylanhnguyen.com
-- 😄 Pronouns: He/Him
+- :surfer: I love surfing, traveling, trying new cuisines, reading, and filming on my drone.
+
+- 📫 Let's connect: me@dylanhnguyen.com or https://dylanhnguyen.com
+
 - ⚡ Fun fact: I have the same birthday as Marilyn Monroe and Notch.
 
