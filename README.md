@@ -31,7 +31,7 @@
 
 ---
 
-### 👨‍🎓_technologist: About Me :
+### 👨‍🎓 About Me :
 - :bulb: I’m currently working on the next big thing and changing the world..
 - :books: I’m currently learning and developing with React.js and Vue.js.
 - 🤝 I’m looking to collaborate on projects with anyone who works well in a team.
@@ -43,7 +43,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Technologies and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
