@@ -1,26 +1,29 @@
 
-
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e4709rruqpjrclvjq2a5r66pvnlrnrnjr7q8vz191d6&rid=giphy.gif&ct=s" width="100"/>
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div id="badges">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/dylanhnguyen/)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/itsdigitalchief">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+     <a href="https://www.facebook.com/dylannguyenn/">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    
+  </div>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
 
 <h1> Hi, I'm Dylan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
 
 Some interesting facts about me:
 
