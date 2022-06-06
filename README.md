@@ -1,10 +1,10 @@
 ### Hello, I'm Dylan! 🙃 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)" width="100"/>
 </div>
 
-Some quick facts about me:
+Some interesting facts about me:
 
 - :bulb: I’m currently working on the next big thing and changing the world..
 - :books: I’m currently learning and developing with React.js and Vue.js.
