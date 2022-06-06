@@ -37,7 +37,7 @@
 - 🤝 I’m looking to collaborate on projects with anyone who works well in a team.
 - 🧑‍🎓 I’m looking for help with finding a career that suits my computer science and business background.
 - :surfer: I love surfing, traveling, trying new cuisines, reading, and filming on my drone.
-- 📫 Let's connect: me@dylanhnguyen.com or https://dylanhnguyen.com ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylanhnguyen/)
+- 📫 Let's connect: me@dylanhnguyen.com or visit my personal website https://dylanhnguyen.com 
 - ⚡ Fun fact: I have the same birthday as Marilyn Monroe and Notch.
 
 
