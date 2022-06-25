@@ -27,16 +27,18 @@
 ---
 
 ### A bit about myself:
-- :bulb: I’m an undergraduate attending UC Riverside, pursuing a B.S. in Computer Science and Minor in Business Administration.Currently I am just tryna to learn as much as possible, working as hard as possible, and take as many calculated risks. I am driven to create something that will help people's lives and change the world (I know, very cliche). 
-- :books: I’m currently developing projects using React.js and Vue.js
-- 🧑‍🎓 I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments
-- 💡 I have always been intereted in tech, as well as, entrepenuership, so I am quite fortunate to be able to study computer science and business
-- 🤝 Studying both fields allowed me develop both sets of technical and interpsonally skills
-
+- :bulb: I’m an driven undergraduate attending University of California, Riverside.
+- I am pursuing a B.S. in Computer Science and Minor in Business Administration and currently working as an Information Security Analyst at Farmers & Merchants Bank. 
+<br>
+- 🤝 I’m currently developing projects using React.js and Vue.js
+- I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments
+- I have always been intereted in tech, as well as, entrepenuership, so I am quite fortunate to be able to study computer science and business
+- Studying both fields allowed me develop both sets of technical and interpsonally skills
+<br>
 - 🤙 On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends
 - 👍 A quote I live by: "Reading feeds the mind, experience feeds the soul"
 - 🙃 Fun fact: I have the same birthday as Marilyn Monroe. 
-
+<br>
 - 📫 Feel free to contact me atme@dylanhnguyen.com, or visit my website at www.dylanhnguyen.com 
 
 
