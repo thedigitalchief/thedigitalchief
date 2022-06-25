@@ -21,7 +21,7 @@
 </div></div>
 
 <br><br>
-## A bit about myself:
+## About Me:
 - I’m an highly driven undergraduate attending University of California, Riverside. <br><br>
 - Currently I am pursuing a B.S. in Computer Science and Minor in Business Administration and working as an Information Security Analyst at Farmers & Merchants Bank. Additionally, I am learning and developing projects with React.js & Vue.js. <br><br>
 - I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
@@ -31,7 +31,7 @@
 
 ---
 
-## My skillset:
+## My Skillset:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -50,5 +50,5 @@
 
 ---
 
-## Some more statistics:
+## Additonal Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedigitalchief&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
