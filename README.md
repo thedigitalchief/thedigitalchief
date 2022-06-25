@@ -17,7 +17,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
   
-  <h1> Hello, I'm Dylan!
+  <br>
+  <h1> Hello there! I'm Dylan.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
   
@@ -31,8 +32,8 @@
 
 ---
 
-### About Me :
-- :bulb: I’m an undergraduate attending UC Riverside, pursuing a B.S. in Computer Science and Minor in Business Administration.mCurrently I am just tryna to learn as much as possible, working as hard as possible, and take as many calculated risks. I am driven to create something that will help people's lives and change the world (I know, very cliche). 
+### A bit about myself:
+- :bulb: I’m an undergraduate attending UC Riverside, pursuing a B.S. in Computer Science and Minor in Business Administration.Currently I am just tryna to learn as much as possible, working as hard as possible, and take as many calculated risks. I am driven to create something that will help people's lives and change the world (I know, very cliche). 
 - :books: I’m currently learning and developing with React.js and Vue.js.
 - 🤝 I’m looking to collaborate on projects with anyone who works well in a team.
 - 🧑‍🎓 I’m looking for help with finding a career that suits my computer science and business background.
@@ -44,7 +45,7 @@
 
 ---
 
-### Technologies & Tools :
+### My Skillset of Technologies & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -63,5 +64,5 @@
 
 ---
 
-### My Stats :
+### Some extra stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedigitalchief&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
