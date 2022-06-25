@@ -16,9 +16,8 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
-  
   <br>
-  <h1> Hello there! I'm Dylan. Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+ <h1> Hello there, I'm Dylan! Welcome to my GitHub!  </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -32,8 +31,7 @@
 - :books: I’m currently learning and developing with React.js and Vue.js.
 - 🤝 I’m looking to collaborate on projects with anyone who works well in a team.
 - 🧑‍🎓 I’m looking for help with finding a career that suits my computer science and business background.
-- :surfer: I love surfing, traveling the world, eating new food, reading a good story, and meeting new people.
-
+- 🤙I love surfing, traveling the world, eating new food, reading a good story, and meeting new people.
 - 📫 Let's connect: me@dylanhnguyen.com or visit my responsive portfolio website www.dylanhnguyen.com 
 - ⚡ Fun fact: I have the same birthday as Marilyn Monroe. 
 
