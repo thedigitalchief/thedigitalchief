@@ -46,9 +46,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </div>
-
+<br>
 
 ---
 
-## Some Stats:
+## Some more statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedigitalchief&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
