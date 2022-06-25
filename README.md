@@ -17,7 +17,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
   
-  <h1> Hi, I'm Dylan!
+  <h1> Hello, I'm Dylan!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
   
@@ -32,18 +32,19 @@
 ---
 
 ### About Me :
-- :bulb: I’m currently working on the next big thing and changing the world..
+- :bulb: I’m an undergraduate attending UC Riverside, pursuing a B.S. in Computer Science and Minor in Business Administration.mCurrently I am just tryna to learn as much as possible, working as hard as possible, and take as many calculated risks. I am driven to create something that will help people's lives and change the world (I know, very cliche). 
 - :books: I’m currently learning and developing with React.js and Vue.js.
 - 🤝 I’m looking to collaborate on projects with anyone who works well in a team.
 - 🧑‍🎓 I’m looking for help with finding a career that suits my computer science and business background.
-- :surfer: I love surfing, traveling, trying new cuisines, reading, and filming on my drone.
-- 📫 Let's connect: me@dylanhnguyen.com or visit my personal website https://dylanhnguyen.com 
-- ⚡ Fun fact: I have the same birthday as Marilyn Monroe and Notch.
+- :surfer: I love surfing, traveling the world, eating new food, reading a good story, and meeting new people.
+
+- 📫 Let's connect: me@dylanhnguyen.com or visit my responsive portfolio website www.dylanhnguyen.com 
+- ⚡ Fun fact: I have the same birthday as Marilyn Monroe. 
 
 
 ---
 
-### Technologies and Tools :
+### Technologies & Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
