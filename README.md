@@ -1,6 +1,11 @@
 
 <div id="header" align="center">
-  <div id="badges">
+  
+  <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
+  <br><h1> Hi there, I'm Dylan and welcome to my GitHub! </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   <div id="badges">
     <a href="https://www.linkedin.com/in/dylanhnguyen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -12,10 +17,6 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
-  <br><h1> Hello there, I'm Dylan! Welcome to my GitHub! </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div></div>
 
 <br><br>
