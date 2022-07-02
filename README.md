@@ -21,13 +21,10 @@
   <a href="https://github.com/thedigitalchief/thedigitalchief">
     <img width="120px" src="https://komarev.com/ghpvc/?username=thedigitalchief" alt="Profile Views" />
   </a>
-
- 
 </div>
   
 <br>
 <br>
-
   
 ### Languages
 <div>
@@ -96,6 +93,7 @@
 - On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". Also, fun fact: I have the same birthday as Marilyn Monroe. <br><br>
 - Feel free to reach me at me@dylanhnguyen.com or [visit my website](https://dylanhnguyen.com)
 
+[![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)](mailto:me@dylanhnguyen@.com)
 
 
 </a> &nbsp;&nbsp;
