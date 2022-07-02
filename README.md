@@ -1,20 +1,31 @@
 
+
 <div id="header" align="center">
   
-  <br><h1> Hi, I'm Dylan. Welcome to my GitHub!</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-   <div id="badges">
-    <a href="https://www.linkedin.com/in/dylanhnguyen/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/itsdigitalchief">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-     <a href="https://www.facebook.com/dylannguyenn/">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-  </div>
+  <br>
+  <h1> Hi, I'm Dylan. Welcome to my GitHub!</h1>
+  
+    
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+<a href="https://twitter.com/itsdigitalchief">
+  <img align="left" alt="Dylan's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dylanhnguyen/">
+  <img align="left" alt="Dylan's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/thedigitalchief">
+  <img align="left" alt="Dylan's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+  
+<a href="https://www.instagram.com/creadylan/">
+  <img align="left" alt="D's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+
+  
+  ## <p align="center"><h4 align="center"><samp> A Computer Science undergraduate, Full-Stack Developer, Open Source Contributor,  & Information Security Analyst Intern.</samp></h4></p>
+  
   
 ### Languages
 
