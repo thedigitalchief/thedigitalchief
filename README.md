@@ -17,6 +17,10 @@
   <a href="https://twitter.com/itsdigitalchief">
   <img align="center" alt="Dylan's Twitter" width="90px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+
+ <a href="https://github.com/msameerfarooq/msameerfarooq">
+    <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="page views" />
+  </a>
  
 </div>
   
@@ -69,15 +73,15 @@
 
 ### A few personal projects:
 <a href="https://github.com/thedigitalchief/portfolio-dylanhnguyen">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="320" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="300" />
 </a>
  
 <a href="https://github.com/thedigitalchief/voice-command-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="300" />
 </a>
 
  <a href="https://github.com/thedigitalchief/automated-linkedin-bot">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="320"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="300"/>
 </a>
 
 <br>
