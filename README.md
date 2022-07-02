@@ -6,17 +6,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
   
   <a href="https://www.linkedin.com/in/dylanhnguyen/">
-  <img align="center" alt="Dylan's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="center" alt="Dylan's Linkedin" width="100px" height = "100" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/thedigitalchief">
-  <img align="center" alt="Dylan's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="center" alt="Dylan's Github" width="100px" height = "100"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/dylannguyenn/">
-  <img align="center" alt="Dylan's Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="center" alt="Dylan's Facebook" width="100px" height = "100" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+  
   <a href="https://twitter.com/itsdigitalchief">
-  <img align="center" alt="Dylan's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align="center" alt="Dylan's Twitter" width="90px" height = "90" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
   <br>
 
