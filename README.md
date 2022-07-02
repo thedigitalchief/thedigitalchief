@@ -142,18 +142,7 @@
 ### Activity Graph
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thedigitalchief&theme=github)
  
- 
- <!--START_SECTION:waka-->
 
-```text
-From: 24 June 2022 - To: 02 July 2022
-
-Python     1 hr 19 mins    █████████████████░░░░░░░░   68.13 %
-JavaScript   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-C++        11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
