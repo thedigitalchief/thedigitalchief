@@ -24,7 +24,6 @@
  ![My Profile Views](https://komarev.com/ghpvc/?username=thedigitalchief&style=for-the-badge)
   
 <br/>
-<br/>
 </div>
   
 <br>
@@ -103,8 +102,8 @@
 
 
 ### A few of my recent projects:
-<a href="https://github.com/thedigitalchief/portfolio-dylanhnguyen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="320" />
+<a href="https://github.com/thedigitalchief/dylanhnguyen.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=dylanhnguyen.com" width="320" />
 </a>
  
 <a href="https://github.com/thedigitalchief/voice-command-assistant">
@@ -115,7 +114,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="320"/>
 </a>
 
-<br>
 <br>
 <br>
 <br>
