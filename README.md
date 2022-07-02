@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
   <br><h1> Hi, I'm Dylan. Welcome to my GitHub!</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -42,7 +41,12 @@
 
 [![](https://img.shields.io/badge/responsive--portfolio-dylan%20nguyen-blue)](https://github.com/thedigitalchief/portfolio-dylanhnguyen)
 
+ <a><img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/></a>
+  <br>
 </div></div>
+
+
+  
 
 <br><br>
 ## About Me:
