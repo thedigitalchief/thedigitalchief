@@ -4,9 +4,7 @@
   
   <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad;A+full-stack+developer;A+bybersecurity+intern;An+open+source+enthusiast+&+contributor;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
-
-A computer science engineer undergraduate, full stack developer, cybersecurity intern, open source contributor, an entrepneur with technical and soft skills 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
 
 
 <a href="https://www.linkedin.com/in/dylanhnguyen/">
@@ -33,7 +31,7 @@ A computer science engineer undergraduate, full stack developer, cybersecurity i
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift/SwiftUI" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
