@@ -96,8 +96,7 @@
 - On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". Also, fun fact: I have the same birthday as Marilyn Monroe. <br><br>
 - Feel free to reach me at me@dylanhnguyen.com or [visit my website](https://dylanhnguyen.com)
 
-<br>
-<br>
+
 
 </a> &nbsp;&nbsp;
 
@@ -118,6 +117,18 @@
 </a>
 <br>
 
-
 ### Activity Graph
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thedigitalchief&theme=github)
+ 
+ 
+ !--START_SECTION:waka-->
+
+```text
+From: 24 June 2022 - To: 01 July 2022
+
+Python     1 hr 19 mins    █████████████████░░░░░░░░   68.13 %
+JavaScript   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+C++        11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+```
+
+<!--END_SECTION:waka-->
