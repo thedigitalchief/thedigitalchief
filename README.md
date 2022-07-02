@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
   
- <img src="https://giphy.com/embed/S6TKVPKYVGLUyPHGcV" />
+ <img src="https://media.giphy.com/media/S6TKVPKYVGLUyPHGcV/giphy.gif" />
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
   
