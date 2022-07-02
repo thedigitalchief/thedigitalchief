@@ -117,6 +117,7 @@
 <br>
 <br>
 <br>
+<br>
 
 ## About Me
 - I am a highly driven undergraduate learning and working relentlessly to develop impactful code. <br><br>
@@ -125,12 +126,11 @@
 - On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". Also, fun fact: I have the same birthday as Marilyn Monroe. <br><br>
 - If anything interests you, feel free to contact me! I am open to talk about anything.
 
-[![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)](mailto:me@dylanhnguyen@.com)
+![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)
 <a href = "https://dylanhnguyen.com">
 <img src = https://img.shields.io/badge/responsive-portfolio-blue>
                                    
 </a> &nbsp;&nbsp;
-
 
 ## My Github Stats
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
