@@ -67,7 +67,7 @@
 <br>
 
 
-### Personal Projects
+### A few personal projects:
 <a href="https://github.com/thedigitalchief/portfolio-dylanhnguyen">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="320" />
 </a>
@@ -84,7 +84,7 @@
 <br>
 <br>
 
-## About Me:
+## About Me
 - I’m a highly driven undergraduate learning and working relentlessly to develop impactful code. <br><br>
 - I am currently pursuing a B.S. in Computer Science and Minor in Business Administration at Bourns College of Engineering at University of California, Riverside and working as an Information Security Analyst at Farmers & Merchants Bank. Currently, I am exploring and developing projects involving React.js, automated Python frameworks, and Mongo for databases. <br><br>
 - I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
@@ -95,7 +95,7 @@
 
 <!-- Profile Trophy -->
 
-## Stats:
+## Github Stats
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
 
 
