@@ -87,7 +87,11 @@
 
 <br>
 
-## <p align="center"><h4 align="center"><samp> A Computer Science Undergraduate, Full-Stack Developer, An Open Source Contributor, & Information Security Intern </samp></h4></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+engineer+dndergraduate;A+full-stack+developer;A+bybersecurity+intern;An+open+source+enthusiast+&+contributor;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
+
+A computer science engineer undergraduate, full stack developer, cybersecurity intern, open source contributor, an entrepneur with technical and soft skills 
+
+
 
 
 ## About Me:
