@@ -34,13 +34,10 @@
 ### Languages
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="50px" height="50px"/>&nbsp;
-
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="Java" alt="Python" width="50px" height="50px"/>&nbsp;
-  
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" title="Swift/SwiftUI" alt="Swift" width="50px" height="50px"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="60px" height="60px"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50px" height="50px"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50px" height="50px"/>
@@ -51,13 +48,14 @@
 
 ### Full-Stack Development
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)\
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+
 
 
 ### Data Analysis & Machine Learning
