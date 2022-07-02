@@ -30,7 +30,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg]
   <img src = "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift/SwiftUI" alt="Swift" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60px" height="60px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>&nbsp;
