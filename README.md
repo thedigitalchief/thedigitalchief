@@ -20,7 +20,8 @@
 </a>
   <br>
 
-  <img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> 
+ ![My Profile Views](https://komarev.com/ghpvc/?username=thedigitalchief&style=for-the-badge)
+  
 <br/>
 <br/>
 </div>
