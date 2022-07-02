@@ -92,27 +92,27 @@
 
 ### Tools & Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <br>
 
 
-### A few projects of mine
+### A few of my recent projects:
 <a href="https://github.com/thedigitalchief/portfolio-dylanhnguyen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="330" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="320" />
 </a>
  
 <a href="https://github.com/thedigitalchief/voice-command-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="330" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="320" />
 </a>
 
  <a href="https://github.com/thedigitalchief/automated-linkedin-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="330"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="320"/>
 </a>
 
 <br>
@@ -133,26 +133,26 @@
                                    
 </a> &nbsp;&nbsp;
 
+
 ## My Github Stats
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
   
-  
-<!--   Top Languages Using -->
-### Top Languages Used
+ <br>
+
+### Top Languages Used by Me
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedigitalchief&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedigitalchief&theme=nord_dark)
 
 <br>
 
-### Profile Trophies
+### Profile Trophies Awarded
 <a href="https://github.com/thedigitalchief/github-profile-trophy">
-  <img width=700 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img max-width=60% src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 <br>
 
 
-### Profile Trophies
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width = "750px">
 <br>
 <br>
 
