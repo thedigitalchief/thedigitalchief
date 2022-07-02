@@ -74,15 +74,15 @@
 
 ### A few personal projects:
 <a href="https://github.com/thedigitalchief/portfolio-dylanhnguyen">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=portfolio-dylanhnguyen" width="320" />
 </a>
  
 <a href="https://github.com/thedigitalchief/voice-command-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="320" />
 </a>
 
  <a href="https://github.com/thedigitalchief/automated-linkedin-bot">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="320"/>
 </a>
 
 <br>
