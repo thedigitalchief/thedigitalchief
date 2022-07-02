@@ -114,7 +114,7 @@
 
 ### Profile Trophy
 <a href="https://github.com/thedigitalchief/github-profile-trophy">
-  <img width=500 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img width=700 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 <br>
 
