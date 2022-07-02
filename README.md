@@ -3,7 +3,10 @@
 <div id="header" align="center">
   
   <br>
-  <h1> Hi, I'm Dylan. Welcome to my GitHub!</h1>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad;A+full-stack+developer;A+bybersecurity+intern;An+open+source+enthusiast+&+contributor;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
+
+A computer science engineer undergraduate, full stack developer, cybersecurity intern, open source contributor, an entrepneur with technical and soft skills 
 
 
 <a href="https://www.linkedin.com/in/dylanhnguyen/">
@@ -86,12 +89,6 @@
 </a>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+engineer+dndergraduate;A+full-stack+developer;A+bybersecurity+intern;An+open+source+enthusiast+&+contributor;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
-
-A computer science engineer undergraduate, full stack developer, cybersecurity intern, open source contributor, an entrepneur with technical and soft skills 
-
-
 
 
 ## About Me:
