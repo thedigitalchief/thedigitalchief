@@ -34,6 +34,8 @@
 ### Languages
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="50px" height="50px"/>&nbsp;
+
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="Java" alt="Python" width="50px" height="50px"/>&nbsp;
   
