@@ -1,7 +1,5 @@
 <div id="header" align="center">
 
-  
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
   
   ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/93560178/177009718-305ac31c-9d1f-46ef-9a21-55de1260fd86.gif)
@@ -30,7 +28,7 @@
 <br>
 <br>
   
-### Programming Languages
+## Programming Languages
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
@@ -45,7 +43,7 @@
 <br>
 
 
-### Full-Stack Development
+## Mobile Full-Stack
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
@@ -58,7 +56,7 @@
 <br>
 
 
-### Data Analysis & Machine Learning
+## Data Analysis & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -70,7 +68,7 @@
 <br>
 
 
-### CL Documentation & Testing
+## CL Documentation & Testing
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -80,7 +78,7 @@
 <br>
 
 
-### Database
+## Database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
@@ -90,7 +88,7 @@
 <br>
 
 
-### Tools & Environments
+## Tools & Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -120,7 +118,7 @@
 <br>
 <br>
 
-## About Me
+# About Me
 - I am a highly driven undergraduate learning and working relentlessly to develop impactful code. <br><br>
 - I am currently pursuing a B.S. in Computer Science and Minor in Business Administration at Bourns College of Engineering at University of California, Riverside and working as an Information Security Analyst at Farmers & Merchants Bank. Currently, I am exploring and developing projects involving React.js, automated Python frameworks, and Mongo for databases. <br><br>
 - I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
@@ -143,15 +141,13 @@
 ### Top Languages Used by Me
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedigitalchief&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedigitalchief&theme=nord_dark)
-
 <br>
-
-### Profile Trophies Awarded
+<br>
+## Profile Trophies Awarded
 <a href="https://github.com/thedigitalchief/github-profile-trophy">
   <img max-width=60% src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 <br>
-
 
 <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width = "750px">
 <br>
