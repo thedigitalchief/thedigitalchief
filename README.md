@@ -20,16 +20,14 @@
   <a href="https://twitter.com/itsdigitalchief">
   <img align="center" alt="Dylan's Twitter" width="90px" height = "90" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-  <br>
-<br>
+
 </div>
-  
 <br>
 <br>
 
-#  Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> <div>
-  
-## Programming Languages
+#  Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
+<p>
+## Programming Languages:
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
@@ -43,8 +41,7 @@
  </div>
 <br>
 
-
-## Mobile Full-Stack
+## Full-Stack:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
@@ -57,7 +54,7 @@
 <br>
 
 
-## Data Analysis & Machine Learning
+## Data Analysis & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -68,18 +65,14 @@
 
 <br>
 
-
-## CL Documentation & Testing
+## Documentation & Testing
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-
 <br>
 
-
-## Database
+## Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
@@ -88,8 +81,7 @@
 
 <br>
 
-
-## Tools & Environments
+## Environments & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
