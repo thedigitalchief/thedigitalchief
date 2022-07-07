@@ -30,7 +30,7 @@
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 <p>
 
-### Programming Languages:
+### Languages:
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
@@ -44,7 +44,7 @@
  </div>
 <br>
 
-# Full-Stack:
+### Application Development:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
@@ -96,7 +96,7 @@
 <br>
 
 
-### Some personal projects:
+## Some personal projects:
 <a href="https://github.com/thedigitalchief/dylanhnguyen.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=dylanhnguyen.com" width="320" />
 </a>
@@ -129,17 +129,17 @@
                                    
 </a> &nbsp;&nbsp;
 
-## My Github Stats
+## My Stats
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
   
  <br>
 
-### Top Languages Used by Me
+## Top Languages Used by Me
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedigitalchief&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedigitalchief&theme=nord_dark)
 <br>
 <br>
-## Profile Trophies Awarded
+## Github Profile Trophies
 <a href="https://github.com/thedigitalchief/github-profile-trophy">
   <img max-width=60% src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
