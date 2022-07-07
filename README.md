@@ -1,5 +1,5 @@
 <div id="header" align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
 
   ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/93560178/177009718-305ac31c-9d1f-46ef-9a21-55de1260fd86.gif)
@@ -14,7 +14,6 @@
   <img align="center" alt="Dylan's Dev" width="100px" height = "100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> 
 
 
-
 <a href="https://www.facebook.com/dylannguyenn/" >
   <img align="center" alt="Dylan's Facebook" width="100px" height = "100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
@@ -24,13 +23,11 @@
 </a>
 
 </div>
-<br>
-<br>
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
-<p>
 
-### Languages:
+
+## Languages:
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
@@ -41,7 +38,6 @@
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50px" height="50px"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50px" height="50px"/>
   
- </div>
 
 
 ### Application Development:
@@ -55,8 +51,6 @@
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 
 
-
-
 ### Data Analysis & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -67,21 +61,18 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
-
 ### Documentation & Testing
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-
-### Databases
+### Database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
-
 
 
 ### Environments & Tools
@@ -92,8 +83,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-
 
 
 ### Some projects:
@@ -109,8 +98,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="320"/>
 </a>
 
-
-<br>
 <br>
 <br>
 
@@ -120,33 +107,33 @@
 - I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
 - On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". Also, fun fact: I have the same birthday as Marilyn Monroe. <br><br>
 - If anything interests you, feel free to contact me! I am open to talk about anything.
-</br>
+
 <div align = "center">
 
 ![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)
 <a href = "https://dylanhnguyen.com">
   <img src = https://img.shields.io/badge/responsive-portfolio-blue></div>
                                    
-</a> &nbsp;&nbsp;
+</a> 
 
-## My Stats
+# My Stats
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
   
  <br>
 
-## Top Languages Used by Me
+### Top Languages Used by Me
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedigitalchief&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedigitalchief&theme=nord_dark)
 <br>
-<br>
-## Github Profile Trophies
+
+### Github Profile Trophies
 <a href="https://github.com/thedigitalchief/github-profile-trophy">
   <img max-width=60% src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 <br>
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width = "750px">
-<br>
+### Github Profile Trophies
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width = "550px">
 <br>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+
