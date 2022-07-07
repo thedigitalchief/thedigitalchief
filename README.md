@@ -42,7 +42,7 @@
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50px" height="50px"/>
   
  </div>
-<br>
+
 
 ### Application Development:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
@@ -54,7 +54,7 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 
-<br>
+
 
 
 ### Data Analysis & Machine Learning:
@@ -66,14 +66,14 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-<br>
+
 
 ### Documentation & Testing
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<br>
+
 
 ### Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -82,7 +82,7 @@
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 
-<br>
+
 
 ### Environments & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -93,10 +93,10 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-<br>
 
 
-## Some personal projects:
+
+### Some projects:
 <a href="https://github.com/thedigitalchief/dylanhnguyen.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=dylanhnguyen.com" width="320" />
 </a>
@@ -109,7 +109,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=automated-linkedin-bot" width="320"/>
 </a>
 
-<br>
+
 <br>
 <br>
 <br>
