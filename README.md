@@ -8,10 +8,10 @@
 </a>
 
 <a href="https://github.com/thedigitalchief">
-  <img align="center" alt="Dylan's Github" width="100px" height = "100px"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="center" alt="Dylan's Github" width="100px" height = "90px"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
-  <img align="center" alt="Dylan's Dev" width="100px" height = "100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> 
+  <img align="center" alt="Dylan's Dev" width="100px" height = "90px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> 
 
 
 <a href="https://www.facebook.com/dylannguyenn/" >
