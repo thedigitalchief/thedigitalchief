@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=27&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi,+I'm+Dylan!;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
 
   ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/93560178/177009718-305ac31c-9d1f-46ef-9a21-55de1260fd86.gif)
 
@@ -8,10 +8,10 @@
 </a>
 
 <a href="https://github.com/thedigitalchief">
-  <img align="center" alt="Dylan's Github" width="100px" height = "90px"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="center" alt="Dylan's Github" width="100px" height = "100px"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
-  <img align="center" alt="Dylan's Dev" width="100px" height = "90px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> 
+  <img align="center" alt="Dylan's Dev" width="100px" height = "100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> 
 
 
 <a href="https://www.facebook.com/dylannguyenn/" >
@@ -21,7 +21,6 @@
   <a href="https://twitter.com/itsdigitalchief">
   <img align="center" alt="Dylan's Twitter" width="100px" height = "100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-
 </div>
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
