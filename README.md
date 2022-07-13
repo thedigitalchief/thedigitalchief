@@ -132,7 +132,7 @@
 <br>
 
 ### Github Profile Trophies
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width = "550px">
+<img src="https://raw.githubusercontent.com/thedigitalchief/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width = "550px">
 <br>
 
 
