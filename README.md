@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi,+I'm+Dylan..;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
 
   ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/93560178/177009718-305ac31c-9d1f-46ef-9a21-55de1260fd86.gif)
 
