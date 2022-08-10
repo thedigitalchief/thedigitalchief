@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
 
   ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/93560178/177009718-305ac31c-9d1f-46ef-9a21-55de1260fd86.gif)
-  
+
+ <div id="header" align="center">
+   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/></div>
 <a href="https://www.linkedin.com/in/dylanhnguyen/">
   <img align="center" alt="Dylan's Linkedin" width="104px" height = "104px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -20,9 +22,7 @@
 </a>
   
   <a href="https://twitter.com/itsdigitalchief">
-  <img align="center" alt="Dylan's Twitter" width="98px" height = "98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-</div>
+  <img align="center" alt="Dylan's Twitter" width="98px" height = "98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a></div>
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 
