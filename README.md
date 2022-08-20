@@ -53,7 +53,7 @@
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <br>
 
-### Data Analysis & Machine Learning:
+### Data & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) <br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -85,8 +85,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=ML-RealEstate-Predictor" width="320"/><br>
 </a>
  
-<a href="https://github.com/thedigitalchief/voice-command-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="320" />
+<a href="https://github.com/thedigitalchief/CS105-Starbucks-DataAnalysis-project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=CS105-Starbucks-DataAnalysis-project" width="320" />
 </a>
 
  <a href="https://github.com/thedigitalchief/automated-linkedin-bot">
