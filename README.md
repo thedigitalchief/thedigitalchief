@@ -105,15 +105,5 @@
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
  <br>
 
-### Top Languages Used by Me
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedigitalchief&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedigitalchief&theme=nord_dark)
-<br>
-
-### Profile Trophies
-<a href="https://github.com/thedigitalchief/github-profile-trophy">
-  <img max-width=60% src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-<br>
 
 
