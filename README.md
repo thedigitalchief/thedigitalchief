@@ -72,8 +72,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=dylanhnguyen.com" width="400" />
 </a>
 
-<a href="https://github.com/thedigitalchief/sherlock-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=sherlock-code" width="400" />
+<a href="https://github.com/thedigitalchief/Sherlock-Scan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=Sherlock-Scan" width="400" />
 </a>
 
  <a href="https://github.com/thedigitalchief/coursaholic">
