@@ -20,9 +20,7 @@
 <a href="https://www.facebook.com/dylannguyenn/" >
   <img align="center" alt="Dylan's Facebook" width="102px" height = "102px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-  
-  <a href="https://twitter.com/itsdigitalchief">
-  <img align="center" alt="Dylan's Twitter" width="98px" height = "98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a></div>
+
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
 
@@ -71,19 +69,19 @@
 
 ### Some Projects
 <a href="https://github.com/thedigitalchief/dylanhnguyen.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=dylanhnguyen.com" width="320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=dylanhnguyen.com" width="400" />
 </a>
 
- <a href="https://github.com/thedigitalchief/ML-RealEstate-Predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=ML-RealEstate-Predictor" width="320"/><br>
-</a>
- 
-<a href="https://github.com/thedigitalchief/CS105-Starbucks-DataAnalysis-project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=CS105-Starbucks-DataAnalysis-project" width="320" />
+<a href="https://github.com/thedigitalchief/sherlock-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=sherlock-code" width="400" />
 </a>
 
  <a href="https://github.com/thedigitalchief/coursaholic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=coursaholic" width="320"/><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=coursaholic" width="400"/>
+</a>
+
+ <a href="https://github.com/thedigitalchief/ML-RealEstate-Predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=ML-RealEstate-Predictor" width="400"/><br>
 </a>
 <p>
 
@@ -92,13 +90,15 @@
 - I am currently pursuing a B.S. in Computer Science and Minor in Business Administration at Bourns College of Engineering at University of California, Riverside and working as an Information Security Analyst at Farmers & Merchants Bank. Currently, I am exploring and developing projects involving React.js, automated Python frameworks, and Mongo for databases. <br><br>
 - I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
 - On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". Also, fun fact: I have the same birthday as Marilyn Monroe. <br><br>
-- If anything interests you, feel free to contact me! I am open to talk about anything.
 
 <div align = "center">
 
 ![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)
 <a href = "https://dylanhnguyen.com">
-  <img src = https://img.shields.io/badge/responsive-portfolio-blue></div>                            
+  <img src = https://img.shields.io/badge/portfolio-blue></div>                            
+</a> 
+<a href = "https://coursaholic.io">
+  <img src = https://img.shields.io/badge/Coursaholic-blue></div>                            
 </a> 
 
 # My Stats
