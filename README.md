@@ -79,10 +79,10 @@
 
 # About Me
 <div align = "left">
-* A highly driven undergraduate learning and working relentlessly to develop impactful code. <br><br>
-* I am currently pursuing a B.S. in Computer Science and Minor in Business Administration at Bourns College of Engineering at University of California, Riverside and an Information Security Analyst Intern at Farmers & Merchants Bank. Currently, I am exploring and developing projects involving React.js, automated Python frameworks, and Mongo for databases. <br><br>
-* I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
-* On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". <br><br>
+  • I am a highly driven undergraduate learning and working relentlessly to develop impactful code. <br><br>
+  • I am currently pursuing a B.S. in Computer Science and Minor in Business Administration at Bourns College of Engineering at University of California, Riverside and an Information Security Analyst Intern at Farmers & Merchants Bank. Currently, I am exploring and developing projects involving React.js, automated Python frameworks, and Mongo for databases. <br><br>
+  • I’m always seeking oppurtunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepenuership its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
+  • On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". <br><br>
 </div>
 
 
