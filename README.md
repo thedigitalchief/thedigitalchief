@@ -71,8 +71,8 @@
  <a href="https://github.com/thedigitalchief/ML-RealEstate-Predictor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=ML-RealEstate-Predictor" width="350" />
 </a>
-<a href="https://github.com/thedigitalchief/Sherlock-Scan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=Sherlock-Scan" width="350" />
+<a href="https://github.com/thedigitalchief/voice-command-assistant.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="350" />
 </a>
  </div>
 <p>
