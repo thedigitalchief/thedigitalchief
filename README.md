@@ -4,20 +4,20 @@
 
 
  <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/> <br>
-<a href="https://www.linkedin.com/in/dylanhnguyen/">
-  <img align="center" alt="Dylan's Linkedin" width="102px" height = "102px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/dylanhnguyen/" title="LinkedIn">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
-
-<a href="https://github.com/thedigitalchief">
-  <img align="center" alt="Dylan's Github" width="92px" height = "92px"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://github.com/thedigitalchief" title="GitHub ">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
+   </a>
+  <a href="https://dev.to/digitalchief" title="Dev.to Account">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" />
 </a>
-
-  <img align="center" alt="Dylan's Dev" width="85px" height = "85px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> 
-
-<a href="https://www.facebook.com/dylannguyenn/" >
-  <img align="center" alt="Dylan's Facebook" width="102px" height = "102px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+   
+   <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
+   
 
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
  </div>
