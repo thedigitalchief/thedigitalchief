@@ -5,6 +5,8 @@
 
 
  <div id="header" align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square)]
+   
    <a href="https://www.linkedin.com/in/dylanhnguyen/" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
