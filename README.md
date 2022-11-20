@@ -2,11 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
 
-
-
- <div id="header" align="center">
-[![Profile Views](https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square)]
-   
+<div id="header" align="center">
+   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
    <a href="https://www.linkedin.com/in/dylanhnguyen/" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
@@ -16,23 +13,21 @@
   <a href="https://dev.to/digitalchief" title="Dev.to Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" />
 </a>
-   
+
    <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
-   
 
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
  </div>
 
 <div align = "left">
-<br>
+
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
 
 
 ### Languages
-
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="Java" alt="Python" width="50px" height="50px"/>&nbsp;
@@ -77,13 +72,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Industry Knowledge
-
-![Full-Stack Development](https://img.shields.io/static/v1?label=&message=Fullstack%20Web%20Development&color=002e3b&style=for-the-badge)
 ![Test Driven Development](https://img.shields.io/static/v1?label=&message=Test%20Driven%20Development&color=729b1a&style=for-the-badge)
 ![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive%20Web%20Design&color=1a202c&style=for-the-badge)
 ![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First%20Design&color=38b2ac&style=for-the-badge)
 ![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=f05033&style=for-the-badge)
-
 ![SEO](https://img.shields.io/static/v1?label=&message=SEO&color=blue&style=for-the-badge)
 
 &nbsp;
