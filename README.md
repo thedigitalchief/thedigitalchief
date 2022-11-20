@@ -76,14 +76,12 @@
 
 ### Industry Knowledge
 
-![Front-End Development](https://img.shields.io/static/v1?label=&message=Frontend%20Web%20Development&color=002e3b&style=for-the-badge)
+![Full-Stack Development](https://img.shields.io/static/v1?label=&message=Fullstack%20Web%20Development&color=002e3b&style=for-the-badge)
 ![Test Driven Development](https://img.shields.io/static/v1?label=&message=Test%20Driven%20Development&color=729b1a&style=for-the-badge)
 ![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive%20Web%20Design&color=1a202c&style=for-the-badge)
 ![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First%20Design&color=38b2ac&style=for-the-badge)
-![Object Oriented Programming](https://img.shields.io/static/v1?label=&message=Object%20Oriented%20Programming&color=323330&style=for-the-badge)
-![Problem Solving](https://img.shields.io/static/v1?label=&message=Problem%20Solving&color=F7DF1E&style=for-the-badge)
 ![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=f05033&style=for-the-badge)
-![Accessibility](https://img.shields.io/static/v1?label=&message=Accessibility&color=white&style=for-the-badge)
+
 ![SEO](https://img.shields.io/static/v1?label=&message=SEO&color=blue&style=for-the-badge)
 
 &nbsp;
