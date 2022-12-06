@@ -22,9 +22,21 @@
  </div>
 
 <div align = "left">
+  
+#  About Me
+<div align = "left">
+  🔭 I’m currently working on [Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
+  
+  👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br><br>
+  
+  🌱 I am currently teaching myself full-stack PWA, SSR full-stack frameworks. More specifically React, Vue, Typescript, Express, MongoDB, PHP (Laravel),     and recently mySQL & Redis.<br><br>
+  
+  👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <<br><br>
+  
+  ⚡ On a more personal note, surfing is my biggest passion along with tennis, coding, filming, traveling, and watching some real cinema. <br><br>
+</div>
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
-
 
 ### Languages
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
@@ -93,15 +105,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thedigitalchief&repo=voice-command-assistant" width="350" />
 </a>
  </div>
-<p>
 
-# About Me
-<div align = "left">
-  • I am a highly driven undergraduate learning and working relentlessly to develop impactful code. <br><br>
-  • I am currently pursuing a B.S. in Computer Science and Minor in Business Administration at Bourns College of Engineering at University of California, Riverside and an Information Security Analyst Intern at Farmers & Merchants Bank. Currently, I am exploring and developing projects involving React.js, automated Python frameworks, and Mongo for databases. <br><br>
-  • I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. I have always been passionate about technology since I was young, but was drawn to entrepreneurship its innovative aspect. So I am quite fortunate to be able to study cboth of fields today, as it allowed me to develop both hard, technical and soft, interpsonal skills.<br><br>
-  • On a more personal note, surfing is my biggest passion along with traveling, trying new food, finding a good book with a gripping story, and just being able to meeting new people and become friends. A quote I live by: "Reading feeds the mind, experience feeds the soul". <br><br>
-</div>
 
 
 <div align = "center">
