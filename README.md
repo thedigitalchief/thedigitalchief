@@ -29,7 +29,7 @@
   
   👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br>
   
-  🌱 I am currently teaching myself full-stack PWA, SSR full-stack frameworks; more specifically: React, Vue, Laravel (PHP) and mySQL. <br>
+  🌱 I am currently teaching myself full-stack full-stack and PWA frameworks. More specifically: Vue, Nuxt, React, Next.js, Laravel (PHP), mySQL. <br>
   
   👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br>
   
