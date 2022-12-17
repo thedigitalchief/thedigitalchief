@@ -27,13 +27,13 @@
 <div align = "left">
   🔭 I’m currently working on [Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
   
-  👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br><br>
+  👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br>
   
-  🌱 I am currently teaching myself full-stack PWA, SSR full-stack frameworks; more specifically: React, Vue, Laravel (PHP) and mySQL. <br><br>
+  🌱 I am currently teaching myself full-stack PWA, SSR full-stack frameworks; more specifically: React, Vue, Laravel (PHP) and mySQL. <br>
   
-  👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br><br>
+  👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br>
   
-  ⚡ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br><br>
+  ⚡ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br>
 </div>
 
 #  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
