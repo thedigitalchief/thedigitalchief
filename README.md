@@ -20,6 +20,13 @@
 
 ![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
  </div>
+  
+<div align = "center">
+
+![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)
+<a href = "https://dylanhnguyen.com"><img src = https://img.shields.io/badge/portfolio-website-blue>                         
+</a> 
+</div>   
 
 <div align = "left">
   
@@ -45,7 +52,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>&nbsp;
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" title="Swift/SwiftUI" alt="Swift" width="50px" height="50px"/>&nbsp;
   
-### Frameworks & Libaries
+### Frameworks
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -79,14 +86,3 @@
 ![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First%20Design&color=38b2ac&style=for-the-badge)
 ![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=f05033&style=for-the-badge)
 ![SEO](https://img.shields.io/static/v1?label=&message=SEO&color=blue&style=for-the-badge)
-
-&nbsp;
-<br>
-
-
-<div align = "left">
-
-![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)
-<a href = "https://dylanhnguyen.com"><img src = https://img.shields.io/badge/portfolio-website-blue>                         
-</a> 
-</div>   
