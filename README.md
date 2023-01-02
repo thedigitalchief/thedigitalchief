@@ -32,7 +32,7 @@
   
 #  About Me
 <div align = "left">
-  🔭 I’m currently working on [Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
+  🔭 I’m currently working on [[Surfaholic](https://surfaholic.app)](https://surfaholic.netlify.app) – an app modernizing how surfers check waves & read reports. <br><br>
   
   👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br>
   
