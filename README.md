@@ -71,18 +71,8 @@
 <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <br>
 
-### Tools & Platforms
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=646CFF&style=for-the-badge&logo=vite&logoColor=ffcb23)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
- <img src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp; 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ### Industry Knowledge
 ![Test Driven Development](https://img.shields.io/static/v1?label=&message=Test%20Driven%20Development&color=729b1a&style=for-the-badge)
-![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive%20Web%20Design&color=1a202c&style=for-the-badge)
-![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First%20Design&color=38b2ac&style=for-the-badge)
+![Responsive Mobile Design](https://img.shields.io/static/v1?label=&message=Responsive%20Web%20Design&color=1a202c&style=for-the-badge)
 ![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=f05033&style=for-the-badge)
-![SEO](https://img.shields.io/static/v1?label=&message=SEO&color=blue&style=for-the-badge)
+
