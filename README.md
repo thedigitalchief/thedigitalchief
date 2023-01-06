@@ -10,9 +10,6 @@
 <a href="https://github.com/thedigitalchief" title="GitHub ">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
    </a>
-  <a href="https://dev.to/digitalchief" title="Dev.to Account">
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" />
-</a>
 
    <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
@@ -36,7 +33,7 @@
   
   👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br>
   
-  🌱 I am currently teaching myself full-stack full-stack and PWA frameworks. More specifically: Vue, Nuxt, React, Next.js, Laravel (PHP), mySQL. <br>
+  🌱 I am currently teaching myself full-stack frameworks. More specifically Vue, Nuxt, React, Next, Node, Express, MongoDB & Laravel PHP. <br>
   
   👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br>
   
@@ -55,14 +52,13 @@
 ### Frameworks
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
  <img src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 <br>
 
-### Data Science & Machine Learning:
+### Big Data & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  <img src = "https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> &nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) <br>
