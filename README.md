@@ -31,7 +31,7 @@
 <div align = "left">
   🔭 I’m currently working on Surfaholic(https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
   
-  👨🏻‍💻 I am a highly driven undergraduate learning and working relentlessly to develop something that will impact the world.<br>
+  👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
   
   🌱 I am currently teaching myself full-stack frameworks. More specifically Vue, Nuxt, React, Next, Node, Express, MongoDB & Laravel PHP. <br>
   
