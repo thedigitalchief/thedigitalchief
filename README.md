@@ -1,10 +1,8 @@
 <div id="header" align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;)](https://git.io/typing-svg)
-
 <div id="header" align="center">
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
-  
   <a href="https://www.dylanhnguyen.com" title="My Portfolio Website">
   <img height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
@@ -14,16 +12,13 @@
 <a href="https://github.com/thedigitalchief" title="GitHub ">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
    </a>
-<a href="mailto:me@dylanhnguyen.com" title="Email">  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>
+<a href="mailto:me@dylanhnguyen.com" title="Email">  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> <br>
 
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
-  
  
+<div align = "left">
+# About Me
 
-<div align = "left">
-  
-#  About Me
-<div align = "left">
   🔭  The project I am currently working on is ![Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
   
   👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
