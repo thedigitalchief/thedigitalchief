@@ -1,10 +1,12 @@
 <div id="header" align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;)](https://git.io/typing-svg)
+  
 <div id="header" align="center">
-   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
+   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
+  <br>
   <a href="https://www.dylanhnguyen.com" title="My Portfolio Website">
-  <img height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
    <a href="https://www.linkedin.com/in/dylanhnguyen" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
@@ -12,14 +14,13 @@
 <a href="https://github.com/thedigitalchief" title="GitHub ">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
    </a>
-<a href="mailto:me@dylanhnguyen.com" title="Email">  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> <br>
+<a href="mailto:me@dylanhnguyen.com" title="Email">  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> 
 
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
  
 <div align = "left">
-  
 #  About Me
-  🔭  The project I am currently working on is ![Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
+  🔭  The project I am currently working on is ![Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports.<br>
   
   👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
   
@@ -46,7 +47,7 @@
  <img src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-<br>
+
 
 ### Big Data & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -55,7 +56,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<br>
+
 
   </div>
 
