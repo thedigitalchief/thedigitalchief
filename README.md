@@ -17,8 +17,8 @@
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
  
 <div align = "left">
-# About Me
-
+  
+#  About Me
   🔭  The project I am currently working on is ![Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
   
   👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
@@ -28,9 +28,9 @@
   👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br>
   
   ⚡ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br>
-</div>
 
-#  My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
+
+#  Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
 
 ### Languages
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
@@ -57,8 +57,5 @@
 <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <br>
 
-### Industry Knowledge
-![Test Driven Development](https://img.shields.io/static/v1?label=&message=Test%20Driven%20Development&color=729b1a&style=for-the-badge)
-![Responsive Mobile Design](https://img.shields.io/static/v1?label=&message=Responsive%20Web%20Design&color=1a202c&style=for-the-badge)
-![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=f05033&style=for-the-badge)
+  </div>
 
