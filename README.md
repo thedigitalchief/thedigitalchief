@@ -1,9 +1,10 @@
 <div id="header" align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergrad..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;An+entrepreneur+with+both+technical+&+interpersonal+skills!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;)](https://git.io/typing-svg)
 
 <div id="header" align="center">
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
+  
    <a href="https://www.linkedin.com/in/dylanhnguyen/" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
@@ -11,11 +12,13 @@
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
    </a>
 
-   <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
+   <a href="https://www.facebook.com/dylannguyenn" title="Facebook ">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=thedigitalchief&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/thedigitalchief "Stats")<br>
+
+   [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
+  
   
 <div align = "center">
 
