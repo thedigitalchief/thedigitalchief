@@ -22,8 +22,11 @@
  
 <div align = "left">
   
+
+  
 #  About Me
-  🔭  The project I am currently working on is ![Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports.<br>
+  🔭  The project I am currently working on is Surfaholic <a href="surfaholic.app" title="Surfaholic"> 
+  <img height="30" width="30" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app modernizing how surfers check waves & read reports.<br>
   
   👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
   
