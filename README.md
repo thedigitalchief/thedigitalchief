@@ -15,8 +15,7 @@
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 
-![Dylan Nguyen Github Stats](https://github-readme-stats.vercel.app/api?username=thedigitalchief&theme=nord&show_icons=true&count_private=true)
- </div>
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=thedigitalchief&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/thedigitalchief "Stats")<br>
   
 <div align = "center">
 
@@ -29,11 +28,11 @@
   
 #  About Me
 <div align = "left">
-  🔭 I’m currently working on Surfaholic(https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
+  🔭  The project I am currently working on is ![Surfaholic](https://surfaholic.app) – an app modernizing how surfers check waves & read reports. <br><br>
   
   👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
   
-  🌱 I am currently teaching myself full-stack frameworks. More specifically Vue, Nuxt, React, Next, Node, Express, MongoDB & Laravel PHP. <br>
+  🌱 I am currently teaching myself full-stack frameworks. More specifically Vue, React, Express, MongoDB, GraphQL & Laravel. <br>
   
   👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br>
   
