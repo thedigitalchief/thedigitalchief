@@ -6,7 +6,7 @@
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
   
   <a href="https://www.dylanhnguyen.com" title="My Portfolio Website">
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1628/1628420.png" />
+  <img height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
    <a href="https://www.linkedin.com/in/dylanhnguyen" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
@@ -14,18 +14,11 @@
 <a href="https://github.com/thedigitalchief" title="GitHub ">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
    </a>
-<a href="mailto:me@dylanhnguyen.com" title="Email">  <img height="34" width="34" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"></a>
+<a href="mailto:me@dylanhnguyen.com" title="Email">  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>
 
-
-   [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
+   [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
   
-  
-<div align = "center">
-
-![Gmail Badge](https://img.shields.io/badge/-me@dylanhnguyen.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@dylanhnguyen.com)
-<a href = "https://dylanhnguyen.com"><img src = https://img.shields.io/badge/portfolio-website-blue>                         
-</a> 
-</div>   
+ 
 
 <div align = "left">
   
