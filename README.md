@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;)](https://git.io/typing-svg)
   
 <div id="header" align="center">
-   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
-  <br>
   <a href="https://www.dylanhnguyen.com" title="Portfolio Website">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
@@ -20,9 +18,9 @@
 
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
  
-<div align = "left">
+   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
   
-
+<div align = "left">
   
 #  About Me
   🔭  The project I am currently working on is <a href="https://surfaholic.app" title="Surfaholic"> Surfaholic
@@ -34,7 +32,7 @@
   
   💡 I am currently learning about full-stack frameworks. More specifically Vue, React, Express, MongoDB, GraphQL & Laravel. <br>
   
-  🏄‍♂️ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br>
+  🏄‍♂️ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br></br>
 
 #  My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
 
