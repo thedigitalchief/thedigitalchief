@@ -25,28 +25,29 @@
 
   
 #  About Me
-  🔭  The project I am currently working on is Surfaholic <a href="surfaholic.app" title="Surfaholic"> 
-  <img height="30" width="30" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app modernizing how surfers check waves & read reports.<br>
+  🔭  The project I am currently working on is <a href="https://surfaholic.app" title="Surfaholic"> Surfaholic
+  <img height="32" width="32" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app modernizing how surfers check waves & read reports.<br>
   
-  👨🏻‍💻 I am a highly driven undergraduate working relentlessly to develop something that will impact the world.<br>
+  👨🏻‍💻 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively.<br>
   
-  🌱 I am currently teaching myself full-stack frameworks. More specifically Vue, React, Express, MongoDB, GraphQL & Laravel. <br>
+   🤝 I am currently seeking SWE internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills. <br>
   
-  👯 I’m always seeking opportunities to not only learn, but be able to apply and leverage my skills especially in collaboratively environments. <br>
+  💡 I am currently learning about full-stack frameworks. More specifically Vue, React, Express, MongoDB, GraphQL & Laravel. <br>
   
-  ⚡ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br>
-
+  🏄‍♂️ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br>
 
 #  Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
 
 ### Languages
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="35px" height="35px"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="35px" height="35px"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="Java" alt="Python" width="35px" height="35px"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="35px" height="35px"/>&nbsp;
-  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" title="Swift/SwiftUI" alt="Swift" width="35px" height="35px"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="50px" height="50px"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50px" height="50px"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="Java" alt="Python" width="50px" height="50px"/>&nbsp;
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" title="Swift/SwiftUI" alt="Swift" width="50px" height="50px"/>&nbsp; </br>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs,tailwind,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
   
-### Frameworks
+
+  
+### Fullstack Frameworks
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -54,7 +55,7 @@
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 
-### Big Data & Machine Learning:
+### Machine Learning & Big Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  <img src = "https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> &nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) <br>
