@@ -4,7 +4,7 @@
   
 <div id="header" align="center">
   <a href="https://www.dylanhnguyen.com" title="Portfolio Website">
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
+  <img height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
    <a href="https://www.linkedin.com/in/dylanhnguyen" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
@@ -24,11 +24,11 @@
   
 #  About Me
   🔭  The project I am currently working on is <a href="https://surfaholic.app" title="Surfaholic"> Surfaholic
-  <img height="32" width="32" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app modernizing how surfers check waves & read reports.<br>
+  <img height="30" width="30" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app using machine learning to modernize how surfers check waves.<br>
   
   👨🏻‍💻 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively.<br>
   
-   🤝 I am currently seeking SWE internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills. <br>
+   🤝 I am currently seeking internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills in the areas of software development. <br>
   
   💡 I am currently learning about full-stack frameworks. More specifically Vue, React, Express, MongoDB, GraphQL & Laravel. <br>
   
