@@ -41,8 +41,8 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="mysql">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="aws">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git">
-  
   <br>
+  
 #  About Me
   🔭  The project I am currently working on is <a href="https://surfaholic.app" title="Surfaholic"> Surfaholic
   <img height="30" width="30" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app using machine learning to modernize how surfers check waves.<br>
