@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="react">
 <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" alt="node">
-<img src="https://img.shields.io/badge/-Wordpress-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
 <img src="https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="pwa">
 <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
@@ -44,8 +43,8 @@
   <br>
   
 #  About Me
-  🔭  The project I am currently working on is <a href="https://surfaholic.app" title="Surfaholic"> Surfaholic
-  <img height="30" width="30" src="https://www.surfaholic.app/inverted-logo.png" /> </a> – an app using machine learning to modernize how surfers check waves.<br>
+  🔭  The project I am currently working on is <a href="https://highlandernow.com" title="HighlanderNow"> HighlanderNow
+  <img height="25" width="25" src="https://www.highlandernow.com/logo.png" /> </a> – a powerful academic platform used by thousands of UCR students every month.<br>
   
   👨🏻‍💻 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively.<br>
   
