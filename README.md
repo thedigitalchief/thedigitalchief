@@ -43,8 +43,8 @@
   <br>
   
 #  About Me
-  🔭  The project I am currently working on is <a href="https://chefitnow.app" title="Chef'it"> HighlanderNow
-  <img height="25" width="25" src="https://chefitnow.app/logo.png" /> </a> – a marketplace platform that connects home-chefs with diners looking for authentic, affordable food.<br>
+  🔭  The project I am currently working on is <a href="https://chefitnow.app" title="Chef'it"> Chef'it
+  <img height="25" width="25" src="https://chefitnow.app/favicon.ico" /> </a> – a marketplace platform that connects home-chefs with diners looking for authentic, affordable food.<br>
   
   👨🏻‍💻 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively.<br>
   
