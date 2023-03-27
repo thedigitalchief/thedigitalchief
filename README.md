@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate..;A+full-stack+developer..;A+cybersecurity+intern..;An+open+source+contributor..;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate at UCR..;Currently seeking technical+internship+opportunities...;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
   
 <div id="header" align="center">
   <a href="https://www.dylanhnguyen.com" title="Portfolio Website">
@@ -43,14 +43,14 @@
   <br>
   
 #  About Me
-  🔭  The project I am currently working on is <a href="https://chefitnow.app" title="Chef'it"> Chef'it
-  <img height="25" width="25" src="https://chefitnow.app/favicon.ico" /> </a> – a marketplace platform that connects home-chefs with diners looking for authentic, affordable food.<br>
+  🔭  The project I am currently working on is <a href="https://chefit.io" title="Chef'it"> Chef'it
+ </a> – an online platform that connects home-chefs with diners looking for authentic, affordable homemade food.<br>
   
-  👨🏻‍💻 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively.<br>
+  👨🏻‍💻 I am currently seeking internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills in the areas of software development. <br>
   
-   🤝 I am currently seeking internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills in the areas of software development. <br>
+   🤝 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively. <br>
   
-  💡 I am currently learning about full-stack frameworks. More specifically React, Express, Node, MongoDB, TypScript, Vue, GraphQL, Laravel, & API CRUD REST servers.<br>
+  💡 I am currently developing with full-stack frameworks and technologies. More specifically React, Express, Node, MongoDB, TypScript, Vue, GraphQL, Laravel, & API REST.<br>
   
   🏄‍♂️ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br></br>
 
