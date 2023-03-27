@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Hi!+I'm+Dylan..;A+computer+science+undergraduate at UCR..;Currently seeking technical+internship+opportunities...;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=24&width=500&lines=Welcome!+I'm+Dylan...;A+computer+science+undergraduate+seeking+a+2023+summer+internship..;A+full-stack+developer+and+machine+learning+enthusiast..;An+open+source+contributor..;)](https://git.io/typing-svg)
   
 <div id="header" align="center">
   <a href="https://www.dylanhnguyen.com" title="Portfolio Website">
