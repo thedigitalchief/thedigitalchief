@@ -43,10 +43,12 @@
   <br>
   
 #  About Me
-  🔭  The project I am currently working on is <a href="https://chefit.io" title="Chef'it"> Chef'it
- </a> – an online platform that connects home-chefs with diners looking for authentic, affordable homemade food.<br>
-  
+    
   👨🏻‍💻 I am currently seeking internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills in the areas of software development. <br>
+  
+  🔭 I am currently working on <a href="https://landing.chefit.io" title="Chef'it"> Chef'it
+ </a> – an online platform that connects home-chefs with diners looking for authentic, affordable homemade food.<br>
+
   
    🤝 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively. <br>
   
