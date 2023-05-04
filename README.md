@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="react">
 <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" alt="node">
-<img src="https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="pwa">
 <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="mysql">
@@ -46,14 +45,12 @@
     
   👨🏻‍💻 I am currently seeking internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills in the areas of software development. <br>
   
-  🔭 I am currently working on <a href="https://landing.chefit.io" title="Chef'it"> Chef'it
- </a> – an online platform that connects home-chefs with diners looking for authentic, affordable homemade food.<br>
-
+  🤝 I am a driven computer science undergradudate at UC Riverside interested in building software that will improve and enable more in people's lives. <br>
   
-   🤝 I am a highly driven undergradudate working relentlessly to develop things that will impact the world positively. <br>
+  💡 I am currently working with full-stack frameworks and technologies. More specifically React, Express, Node, MongoDB, TypScript, Vue, GraphQL, Laravel, & API REST.<br>
+    
+  🏄‍♂️  I enjoy surfing, tennis, chess, video editing, and cinema. <br>
   
-  💡 I am currently developing with full-stack frameworks and technologies. More specifically React, Express, Node, MongoDB, TypScript, Vue, GraphQL, Laravel, & API REST.<br>
-  
-  🏄‍♂️ On a more personal note, I enjoy surfing, tennis, coding, traveling, filming, and cinema. <br></br>
+    🔭 I am currently working on <a href="https://tokerunner" title="TokeRunner">TokeRunner</a>. If you're interested, please feel free to contact me.<br>
 
 
