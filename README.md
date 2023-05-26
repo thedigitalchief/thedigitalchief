@@ -27,8 +27,7 @@
   
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="bootstrap">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
+
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="javascript">
 <img src="https://img.shields.io/badge/-Mongo%20db-black?style=for-the-badge&logo=mongodb" alt="Mongo DB">
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
@@ -51,6 +50,6 @@
     
   🏄‍♂️  I enjoy surfing, tennis, chess, video editing, and cinema. <br>
   
-    🔭 I am currently working on <a href="https://tokerunner" title="TokeRunner">TokeRunner</a>. If you're interested, please feel free to contact me.<br>
+    If you're interested, please feel free to contact me.<br>
 
 
