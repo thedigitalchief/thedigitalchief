@@ -18,11 +18,11 @@
   </a> 
 
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
- 
+
   
 <div align = "left">
 
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> 
+# Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> 
   
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css">
@@ -37,8 +37,9 @@
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="aws">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git">
   <br>
+  <br />
   
-##  About Me
+#  About Me
     
   👨🏻‍💻  Skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, as well as, databases, servers, and APIs. Additionally, I have experience with with machine learning and big data stacks. <br>
   
