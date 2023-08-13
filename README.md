@@ -40,14 +40,14 @@
   
 ##  About Me
     
-  👨🏻‍💻 I am currently seeking internships that will not only provide me with oppurtunities to learn, but also opportunites to apply and leverage my skills in the areas of software development. <br>
+  👨🏻‍💻  Skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, as well as, databases, servers, and APIs. Additionally, I have experience with with machine learning and big data stacks. <br>
   
-  🤝 I am a driven computer science undergradudate at UC Riverside interested in building software that will improve and enable more in people's lives. <br>
+  🤝 I am a driven computer science undergradudate interested in building scalable software that will improve and enable more in people's lives. Let's work together to bring your ideas to life! <br>
   
-  💡 I am currently working with full-stack frameworks and technologies. More specifically React, Express, Node, MongoDB, TypScript, Vue, GraphQL, Laravel, & API REST.<br>
+  💡 I am currently working with full-stack SAAS interfaces and progressive web applications. <br>
     
-  🏄‍♂️  I enjoy surfing, tennis, chess, video editing, and cinema. <br>
+  🏄‍♂️ My hobbies include surfing, tennis, chess, video editing, and watching cinema. <br>
   
-  If you're interested, please feel free to contact me. <br>
+  If you're interested, please feel free to reach out to me.  I always enjoy meeting new peers and working in collaborative team environments.<br>
 
 
