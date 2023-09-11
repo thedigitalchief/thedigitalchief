@@ -2,24 +2,27 @@
   
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/> 
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=21&width=500&lines=Welcome!+I'm+Dylan...;A+computer+science+undergraduate+seeking+a+2023+summer+internship..;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
-  
-  <a href="https://www.dylanhnguyen.com" title="Portfolio Website">
-  <img height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
-</a>
-   <a href="https://www.linkedin.com/in/dylanhnguyen" title="LinkedIn">
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
-</a>
-<a href="https://github.com/thedigitalchief" title="GitHub">
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
-   </a>
-<a href="mailto:me@dylanhnguyen.com" title="Email"> 
-  <img height="32" width="33" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />
-  </a> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=21&width=500&lines=Hello!+I'm+Dylan...;A+computer+science+undergraduate..;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
+
 
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
 
   
+  <a href="https://www.dylanhnguyen.com" title="Portfolio ">
+  <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
+</a>
+   <a href="https://www.linkedin.com/in/dylanhnguyen" title="LinkedIn">
+  <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+</a>
+<a href="https://github.com/thedigitalchief" title="GitHub">
+  <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
+   </a>
+<a href="mailto:me@dylanhnguyen.com" title="Email"> 
+  <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />
+  </a> 
+   
+  </div>
+
 <div align = "left">
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> 
