@@ -17,7 +17,7 @@
 <a href="https://github.com/thedigitalchief" title="GitHub">
   <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
    </a>
-<a href="mailto:me@dylanhnguyen.com" title="Email"> 
+<a href="mailto:hello@dylanhnguyen.com" title="Email"> 
   <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />
   </a> 
    
@@ -44,14 +44,14 @@
   
 #  About Me
     
-  👨🏻‍💻  Skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, as well as, databases, servers, and APIs. Additionally, I have experience with with machine learning and big data stacks. <br>
+  👨🏻‍💻  Skilled developer with experience in full stack and AI development. <br>
   
-  🤝 I am a driven computer science undergradudate interested in building scalable software that will improve and enable more in people's lives. Let's work together to bring your ideas to life! <br>
+  🤝 I am a driven individual interested in building scalable software that will improve and enable more in people's lives. Let's work together to bring your ideas to life! <br>
   
-  💡 I am currently working with full-stack SAAS interfaces and progressive web applications. <br>
+  💡 I am currently working on full-stack SAAS and progressive web apps. <br>
     
   🏄‍♂️ My hobbies include surfing, tennis, chess, video editing, and watching cinema. <br>
   
-  If you're interested, please feel free to reach out to me.  I always enjoy meeting new peers and working in collaborative team environments.<br>
+  If you're interested, please feel free to reach out! <br>
 
 
