@@ -2,7 +2,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/> 
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=21&width=500&lines=Hello!+I'm+Dylan...;A+computer+science+undergraduate..;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFF&size=21&width=500&lines=Welcome,+I'm+Dylan.;)](https://git.io/typing-svg)
 
 
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
@@ -46,12 +46,12 @@
     
   👨🏻‍💻  Skilled developer with experience in full stack and AI development. <br>
   
-  🤝 I am a driven individual interested in building scalable software that will improve and enable more in people's lives. Let's work together to bring your ideas to life! <br>
+  🤝 I am a driven individual interested in building scalable software that will improve people's lives. <br>
   
-  💡 I am currently working on full-stack SAAS and progressive web apps. <br>
+  💡 I am currently working on a progressive web app. <br>
     
-  🏄‍♂️ My hobbies include surfing, tennis, chess, video editing, and watching cinema. <br>
+  🏄‍♂️ My other hobbies include tennis, surfing, skiing, and watching movies. <br>
   
-  If you're interested, please feel free to reach out! <br>
+  If you're interested, please don't hesistate to reach out! <br>
 
 
