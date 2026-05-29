@@ -8,10 +8,10 @@
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
 
   
-  <a href="https://www.dylanhnguyen.com" title="Portfolio ">
+  <a href="https://https://github.com/thedigitalchief" title="Portfolio ">
   <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
-   <a href="https://www.linkedin.com/in/dylanhnguyen" title="LinkedIn">
+   <a href="https://www.linkedin.com/in/" title="LinkedIn">
   <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
 <a href="https://github.com/thedigitalchief" title="GitHub">
