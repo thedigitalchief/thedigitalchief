@@ -8,7 +8,7 @@
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
 
   
-  <a href="https://https://dylanhnguyen.com" title="Portfolio ">
+  <a href="https://dylanhnguyen.com" title="Portfolio ">
   <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
    <a href="https://www.linkedin.com/in/" title="LinkedIn">
