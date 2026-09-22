@@ -8,7 +8,7 @@
    [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
 
   
-  <a href="https://https://github.com/thedigitalchief" title="Portfolio ">
+  <a href="https://https://dylanhnguyen.com" title="Portfolio ">
   <img height="30" width="31" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
    <a href="https://www.linkedin.com/in/" title="LinkedIn">
@@ -42,16 +42,18 @@
   <br>
   <br />
   
-#  About Me
-    
-  👨🏻‍💻  Skilled developer with experience in full stack and AI development. <br>
-  
-  🤝 I am a driven individual interested in building scalable software that will improve people's lives. <br>
-  
-  💡 I am currently working on a progressive web app. <br>
-    
-  🏄‍♂️ My other hobbies include tennis, surfing, skiing, and watching movies. <br>
-  
-  If you're interested, please don't hesistate to reach out! <br>
+# About Me
+
+👨🏻‍💻 Business analytics graduate who builds data products, with a full stack background and a computer science foundation.
+
+📊 I work where engineering meets analysis: ETL pipelines, real time dashboards, and models that turn messy data into something a person can actually act on.
+
+🔭 Currently building PokernowAI, a real time poker analytics platform, and an unusual activity scanner for options and prediction markets.
+
+🎓 M.S. in Analytics at Georgia Tech
+
+🏄 Outside of that: tennis, surfing, skiing, pickleball, traveling.
+
+📫 hello@dylanhnguyen.com · [dylanhnguyen.com](https://dylanhnguyen.com)
 
 
